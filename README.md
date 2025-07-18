@@ -5,7 +5,6 @@ A simple, fun browser-based game to test your reaction speed. A shape appears ra
 ## 🚀 Live Demo
 
 👉 [Play Now](https://maneesh004-code.github.io/shape-clicker-game/)  
-*(Replace the link above with your actual GitHub Pages URL)*
 
 
 ---
